@@ -2,6 +2,10 @@ RENCANA KONTEN RAHMAN
 - Video HTML CSS
   * konsep dasar 
   * framework 
+    = react js
 - Diskusi
 - Travelling
 - Framework 
+  * Bootstsrap
+- Python
+  
